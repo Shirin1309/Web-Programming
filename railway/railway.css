@@ -1,0 +1,20 @@
+body{
+    background-image: url('train.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:500px;
+	background-position:center;
+	}
+a:visited{
+	color:goldenrod;
+}
+a:hover{
+	color:hotpink;
+}
+a:active{
+	color:blue;
+}
+a:link{
+	color:red;
+}
+    
